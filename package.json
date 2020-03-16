@@ -1,0 +1,28 @@
+{
+  "name": "koa-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamekure-Maisuke/koa-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamekure-Maisuke/koa-app/issues"
+  },
+  "homepage": "https://github.com/Kamekure-Maisuke/koa-app#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-ejs": "^4.3.0",
+    "koa-router": "^8.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
